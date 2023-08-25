@@ -19,6 +19,6 @@ We also make use of the Trainer module.
 
 At the end of 3 epochs, the model was able to achieve a humble accuracy of 59%!!! 
 
-#Difficulties
+# Difficulties
 Was learning using Gradio and implementing a transformer for the first time, so there was a bit of trouble there. The Gradio GUI was not working as expected. 
 The Hugging Face documentation was quite helpful in trying to understand what I wanted to do. 
